@@ -5874,7 +5874,7 @@
  	 	 	"eng": "Discount ends in ${date}"
  	 	},
  	 	"permanentDescription": {
- 	 	 	"trans": "Questo titolo non scadrà mai. \\nIt rimane con il tuo account per sempre.",
+ 	 	 	"trans": "Questo titolo non scadrà mai. \\nrimarrà con il tuo account per sempre.",
  	 	 	"eng": "This title will never expire.\\nIt stays with your account forever."
  	 	}
  	},
