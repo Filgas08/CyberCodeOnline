@@ -112,6 +112,7 @@ Wanna
 [blacksurgeon](https://github.com/blacksurgeon) 
 [RedWolf141](https://github.com/RedWolf141)
 Omega_finale
+[filgas08](https://github.com/Filgas08)
 
 ## Proofreading
 [Skippayy](https://github.com/skippayyyy)
