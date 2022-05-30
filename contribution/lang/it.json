@@ -4638,7 +4638,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Recycler completamente automatizzato, in grado di riciclare gli elementi fino al loro modulo di scarto base",
+ 	 	 	 	"trans": "Riciclatore completamente automatizzato, in grado di riciclare gli elementi fino al loro modulo di scarto base",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	},
@@ -5014,7 +5014,7 @@
  	 	},
  	 	"aiCoreCluster": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ai Core Cluster",
+ 	 	 	 	"trans": "Ammasso di nuclei IA",
  	 	 	 	"eng": "AI Core Cluster"
  	 	 	}
  	 	},
@@ -5114,7 +5114,7 @@
  	 	 	 	 	"enemyName",
  	 	 	 	 	"value"
  	 	 	 	],
- 	 	 	 	"trans": "Hai attaccato ${enemyName}, distribuire danni da ${value}",
+ 	 	 	 	"trans": "Hai attaccato ${enemyName}, infliggendo ${value} danni",
  	 	 	 	"eng": "You attacked ${enemyName}, dealing ${value} damage"
  	 	 	}
  	 	}
